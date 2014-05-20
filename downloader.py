@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import urllib, urllib2
 import random
 from string import ascii_letters
