@@ -1,0 +1,1 @@
+Some scripts to get flickr interestingness photos onto your Mac as desktop wallpaper.
